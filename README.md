@@ -1,0 +1,4 @@
+/*
+This Repository will give you the solutions for HackerRank problems in C.
+I hope it will help and guide you for sure.
+Do check out my other repos for more info */
